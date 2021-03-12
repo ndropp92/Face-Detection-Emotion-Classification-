@@ -1,2 +1,11 @@
 TODO:
 Create function that calculates noise interference.
+Create Color Correction function
+L0 gradient minimization
+Image deblurring
+Weighted median algorithm
+rolling guidance filter
+Okada filters
+Lees algorithm
+Contraharmoic mean filter
+local adaptive filter
